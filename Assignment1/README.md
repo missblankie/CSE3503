@@ -6,10 +6,11 @@ Sara Waymen
 ## Description
 My implementation of Owl Tech ’s number base conversion utility .
 ## Build Instructions
-‘‘‘bash
+```
+bash
 gcc -o convert convert .c main .c
 ./ convert
-‘‘‘
+```
 ## Test Results
 100/100 tests passed
 ## Notes
