@@ -60,7 +60,7 @@ int main(void) {
         // if 2 inputs formatting
         if (sscanf(p, "print_tables %u", &num) == 1) {
             total++;
-            printf("Test %d: print_tables(%u)--> \n", total, num);
+            printf("Test %d: print_tables(%u)=> \n", total, num);
             print_tables(num);
             printf("[PASS]\n");
             pass++;
