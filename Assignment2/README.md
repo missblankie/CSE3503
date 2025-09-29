@@ -13,8 +13,9 @@ Advanced data representation functions for Owl Tech ’s CPU design team .
 - Reused test framework from A1
 
 ## Build Instructions
+
+Bash
 ```
-bash
 gcc -o convert convert.c main .c 
 ./ convert
 ```
