@@ -38,7 +38,7 @@ cmake --build .
 4. Run:
 
 ```
-./BitBoard
+./BitBoard.exe
 
 ```
 
