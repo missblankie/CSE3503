@@ -9,8 +9,11 @@ BitBoard Checkers
 
 ## Game Instructions
 Each player will choose either white or black and then take turns moving their checker pieces. 
+
 To win, players must claim all of their opponents checker pieces. 
+
 If that is not possible the game will be a draw.
+
 White will go first.
 
 *Two player game*
