@@ -1,4 +1,4 @@
-# CS 3503 Assignment 2 - Data Representation and Mapping
+# CS 3503 Project 1: BitBoard Checkers Game
 
 ## Author
 Sara Waymen
